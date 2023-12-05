@@ -16,7 +16,7 @@ Some individuals wake up with a smile on their faces and full of energy, but for
 
 ### Thesis Statement
 
-“While mornings mark the commencement of a new day and are celebrated for their potential, my aversion to them stems from the disruptive interruption they impose on the tranquility of sleep, the abrupt transition into the demands of daily routines, and the struggle to align personal energy levels with the expectations of the early hours
+While mornings mark the commencement of a new day and are celebrated for their potential, my aversion to them stems from the disruptive interruption they impose on the tranquility of sleep, the abrupt transition into the demands of daily routines, and the struggle to align personal energy levels with the expectations of the early hours
 
 
 ### The Whys
