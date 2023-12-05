@@ -1,38 +1,24 @@
-# “Just”
+# “Morning”
 
-by [Brad Frost](https://bradfrost.com)
+by [Marek Knittl]
 
-28 Jan 2014
+5.12.2023
 
 - - -
 
-I feel like an idiot while doing my job. A lot.
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
 
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
+Some individuals wake up with a smile on their faces and full of energy, but for many of us, getting up in the early hours is a real challenge. This essay will explore the various factors that contribute to this aversion to mornings and how they affect our well-being and productivity.
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+One of the main reasons why some people dread early mornings is the lack of sufficient and quality sleep. Modern lifestyles and busy daily schedules often involve staying up late and waking up early, which deprive us of the optimal amount of rest we need. According to the, most adults require about seven to nine hours of sleep per night, but many people fall short of this recommendation. A lack of sleep can have detrimental effects on our mood and energy levels, making us feel groggy, irritable, and unmotivated in the morning. Therefore, it is understandable that many people do not look forward to the early hours of the day.
 
-**“Just…”**
+Another reason why many people dislike mornings is the stress of preparing for the upcoming workday. Mornings often involve various tasks and responsibilities, such as making breakfast, getting dressed, packing for school or work, and dealing with other everyday concerns. All of this can be overwhelming and time-consuming, especially if we are running late or have a lot of things to do. This stress can create negative associations with mornings and make us feel anxious and unhappy.
 
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
+A third factor that can influence our relationship with mornings is our biological rhythm. People have different circadian rhythms, meaning some are natural night owls and have more energy and creativity later in the evening, while others are early birds and prefer to start their day early. When our biological rhythm does not match the societal expectations of the early wake-up time, it can cause us to feel reluctant and uncomfortable when getting up. For example, a night owl may find it hard to fall asleep early and wake up early, while an early bird may feel bored and restless at night.
 
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
+Even though some people may enjoy mornings and use this part of the day as a time for productivity and serenity, for many of us, the early wake-up time is a challenging task. Understanding the reasons why we may dislike mornings more than other times of the day can help us find strategies to cope with this part of the day and make it more pleasant. For instance, we can try to improve our sleep quality and quantity by following a regular sleep schedule, avoiding caffeine and alcohol before bed, and creating a comfortable and dark sleeping environment. We can also reduce our morning stress by planning ahead, organizing our tasks, and setting realistic goals. Finally, we can adjust our biological rhythm by exposing ourselves to natural light in the morning, avoiding bright screens at night, and finding a balance between our personal preferences and social obligations.
 
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+Finally, I looked at the various reasons why some people find it difficult to get up early in the morning and how they affect our wellbeing and productivity. It also suggested some possible solutions to make getting up in the morning more enjoyable and manageable. By following these tips, we may be able to overcome our aversion to mornings and start the day on a positive and energetic note.
 
 ## Process
 
