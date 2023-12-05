@@ -1,6 +1,6 @@
 # “Morning”
 
-by [Marek Knittl]
+by Marek Knittl
 
 5.12.2023
 
