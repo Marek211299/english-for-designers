@@ -5,13 +5,12 @@
 - [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
 - [Featured Projects](#featured-projects)
-- [Notes](#notes)
 
 ## About
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/surname-headshot.jpg)
+![Write an alternative text description.](img/IMG_4680.jpg)
 
 Hey there, I'm Marek, a photographer. I graduate of Michael Academy. I've been in the world of photography for quite some time, creating portrait shots for Reporter magazine and collaborating with different companies to create portfolios of important people.
 
@@ -31,8 +30,22 @@ I've chosen projects that I'm happy with and have moved me in the professional w
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](02-first-impression/img/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg)
+![Write an alternative text description.](img/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg)
 
 
+### Reporter Magazin
 
+- Reporter is a Czech magazine published monthly since September 2014.
+- I've been working with the magazine for over three years now and together we create photographs for the articles that the writers create. The photographs are published both in print and in online articles.
+- I get to meet interesting people and create something that is printed every month and goes to the shops.
+
+![Write an alternative text description.](img/IMG_4681.JPG)
+
+
+### McDonald's
+- Photoshoot of the owner of Czech McDonald's
+- The owner saw my work and requested me as a photographer. Since then we have been in touch and planning other projects.
+- The photographs were printed in magazines. The photos were taken because of the campaign that was going on, showing the people behind the company.
+
+![Write an alternative text description.](img/img666.jpg)
 
