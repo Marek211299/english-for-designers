@@ -25,7 +25,9 @@ I've chosen projects that I'm happy with and have moved me in the professional w
 
 ### JOJO RABBIT
 
-
+- A movie for the American production company Fox Searchlight Pictures
+- Jojo Rabbit is a 2019 war comedy-drama film written and directed by Taika Waititi
+- I've done DIT and dailies work on the film.
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
