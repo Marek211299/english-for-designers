@@ -1,8 +1,6 @@
 # First Impression
 
-<!-- This is a comment, only visible to the author: Add a link to your presentation. -->
-<!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
-<!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
+
 
 - [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
@@ -15,29 +13,24 @@
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+Hey there, I'm Marek, a photographer. I graduate of Michael Academy. I've been in the world of photography for quite some time, creating portrait shots for Reporter magazine and collaborating with different companies to create portfolios of important people.
+
+Beyond the lens, you'll often find me playing electric guitar or diving into some PlayStation gaming during my downtime. Back in the day, I was all about sports, but as the years roll by, I've developed a taste for kicking back with a good drink and taking it easy.
+
+If winter come, I'm all about hitting the slopes for some skiing action in the mountains. When summer comes, I trade ski for the motocross bike. It's all about balancing the artistic side of photography with the adrenaline rush of outdoor adventures.
 
 ## Featured Projects
 
-A short description about the work.
+I've chosen projects that I'm happy with and have moved me in the professional world to where I am now. I chose projects in the art world. Since I studied film from the beginning I share this stage of work as well.
 
-### Featured Project 1 Title
+### JOJO RABBIT
+
+
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
 
-<!-- Use the same stucture above for the rest of your featured projects. -->
 
-## Notes
 
-Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
-2. …
-3. …
-<!-- And so on. -->
