@@ -1,8 +1,6 @@
 # First Impression
 
 
-
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
 - [Featured Projects](#featured-projects)
 
