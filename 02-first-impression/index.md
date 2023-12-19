@@ -23,8 +23,10 @@ I've chosen projects that I'm happy with and have moved me in the professional w
 ### JOJO RABBIT
 
 - A movie for the American production company Fox Searchlight Pictures
-- Jojo Rabbit is a 2019 war comedy-drama film written and directed by Taika Waititi
 - I've done DIT and dailies work on the film.
+- Released in 2019, this war comedy-drama film is a tour de force in storytelling, thanks to the brilliant mind of Taika Waititi, who not only directed but also penned the screenplay.
+- In the realm of cinematic artistry, "Jojo Rabbit" occupies a unique space, blending elements of humor and poignancy against the backdrop of war. Taika Waititi's distinctive style permeates every frame, infusing the narrative with a rare combination of wit, charm, and thought-provoking themes.
+- Having had the privilege of contributing to the film's production process, I immersed myself in the world of "Jojo Rabbit" through the roles of Digital Imaging Technician (DIT) and overseeing the creation of dailies. The intricacies of handling digital files, ensuring optimal image quality, and collaborating with the cinematography team allowed me to witness firsthand the meticulous craftsmanship that went into bringing this cinematic gem to life.
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
@@ -33,17 +35,19 @@ I've chosen projects that I'm happy with and have moved me in the professional w
 
 ### Reporter Magazin
 
-- Reporter is a Czech magazine published monthly since September 2014.
 - I've been working with the magazine for over three years now and together we create photographs for the articles that the writers create. The photographs are published both in print and in online articles.
 - I get to meet interesting people and create something that is printed every month and goes to the shops.
+- Reporter, a Czech magazine launched in September 2014, has been my creative canvas for over three years. Collaborating with the talented writing team, I contribute photography that enhances the magazine's articles, reaching readers through both print and online platforms.
+
 
 ![Write an alternative text description.](img/IMG_4681.JPG)
 
 
 ### McDonald's
 - Photoshoot of the owner of Czech McDonald's
-- The owner saw my work and requested me as a photographer. Since then we have been in touch and planning other projects.
-- The photographs were printed in magazines. The photos were taken because of the campaign that was going on, showing the people behind the company.
+- The owner of Czech McDonald's liked my photos and asked me to take pictures for them. We became friends and started planning more projects together. The pictures I took were put in magazines as part of a campaign to show the people who run the company.
+- The photoshoot went well, and we got to know each other better. The owner wanted to show that real people are behind the McDonald's brand. The pictures were printed in magazines so more people could see them.
+- After that, we kept working together on new ideas. Our teamwork is more than just a job – we respect each other and want to do great things together. The photos we took started a conversation about being honest and real in business. The owner wanted customers to see a face behind the McDonald's logo and feel a connection.
 
 ![Write an alternative text description.](img/img666.jpg)
 
