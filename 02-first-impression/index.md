@@ -10,11 +10,11 @@
 
 ![Write an alternative text description.](img/IMG_4680.jpg)
 
-Hey there, I'm Marek, a photographer. I graduate of Michael Academy. I've been in the world of photography for quite some time, creating portrait shots for Reporter magazine and collaborating with different companies to create portfolios of important people.
+Hi, I'm Marek, a photographer who graduated from Michael Academy. I've been taking pictures for a while now, making cool portraits for Reporter magazine and teaming up with different companies to create portfolios for important people.
 
-Beyond the lens, you'll often find me playing electric guitar or diving into some PlayStation gaming during my downtime. Back in the day, I was all about sports, but as the years roll by, I've developed a taste for kicking back with a good drink and taking it easy.
+When I'm not behind the camera, you'll usually find me playing my electric guitar or enjoying some PlayStation games in my free time. I used to be really into sports, but as time goes on, I've grown to appreciate just chilling out with a good drink and taking it easy. I also like architecture and design, that's why I like going to exhibitions or reading books
 
-If winter come, I'm all about hitting the slopes for some skiing action in the mountains. When summer comes, I trade ski for the motocross bike. It's all about balancing the artistic side of photography with the adrenaline rush of outdoor adventures.
+In the winter, I love hitting the slopes for some skiing in the mountains. When summer rolls around, I trade in my skis for a motocross bike and rev up the excitement. It's all about finding a balance between the artistic side of photography and the adrenaline rush of outdoor adventures. 
 
 ## Featured Projects
 
