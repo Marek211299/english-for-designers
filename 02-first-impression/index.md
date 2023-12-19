@@ -16,6 +16,14 @@ When I'm not behind the camera, you'll usually find me playing my electric guita
 
 In the winter, I love hitting the slopes for some skiing in the mountains. When summer rolls around, I trade in my skis for a motocross bike and rev up the excitement. It's all about finding a balance between the artistic side of photography and the adrenaline rush of outdoor adventures. 
 
+## Skills
+- I shoot with Canon
+- I prefer Apple but I can also use Windows
+- I know photoshop, Lightroom
+- My friend has become Ai
+
+
+
 ## Featured Projects
 
 I've chosen projects that I'm happy with and have moved me in the professional world to where I am now. I chose projects in the art world. Since I studied film from the beginning I share this stage of work as well.
