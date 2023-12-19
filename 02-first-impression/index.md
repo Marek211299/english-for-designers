@@ -19,7 +19,7 @@ In the winter, I love hitting the slopes for some skiing in the mountains. When 
 ## Skills
 - I shoot with Canon
 - I prefer Apple but I can also use Windows
-- I know photoshop, Lightroom
+- I know Photoshop, Lightroom
 - My friend has become Ai
 
 
