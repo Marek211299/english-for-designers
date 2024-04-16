@@ -1,3 +1,8 @@
+## Title
+
+- [View Video](/assets/thesis.mp4)
+- [View Slides](/assets/thesis.pdf)
+
 
 The bachelor's thesis discusses Czech photographers who specialize in commercial photography. The thesis analyzes current commercial photography and partially demonstrates how it has evolved to its present form. I have selected photographers through which I can showcase the techniques and styles they use in their work. The thesis integrates theoretical and practical aspects.
 
