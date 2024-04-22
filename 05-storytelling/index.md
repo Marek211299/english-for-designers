@@ -1,6 +1,6 @@
 # Seven Deadly Sins
 
-- [View Video](/assets/thesis.mp4)
+- [Listen me](/assets/thesis.mp4)
 
 This is my work that I did last year. I had this set at the Prague Photo exhibition.
 The primary focus of this storytelling is the depiction of the Seven Deadly Sins through both portrait and still life photography.
