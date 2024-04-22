@@ -1,4 +1,4 @@
-## Seven Deadly Sins
+# Seven Deadly Sins
 
 - [View Video](/assets/thesis.mp4)
 
@@ -7,7 +7,7 @@ The primary focus of this storytelling is the depiction of the Seven Deadly Sins
 
 Photographers have often dealt with the theme of the seven sins, but only as part of a series of photographs and not as a whole that deals only with the seven deadly sins. Artists such as Roger Ballen, Terry Richardson, Bettina Rheims, Joel-Peter Witkin and many others have touched on individual sins and photographed their effects or the course of how they impact society.
 
-### ENVY
+## ENVY
 The photo of Envy shows the state of a woman who does not wish for the success of another person, or the happiness she experiences through marriage or through material things that can create a feeling of happiness. The model view is clearly focused on jewelry and she is thinking about stealing. 
 The photograph is shot using two lights. One light as the main light and the other as a supplementary light that illuminates the shadows so that even in the shadows there is detail in the photograph. The colors are edited in post production to achieve this look. The background is created by me using colours and different techniques that led to this result. Some of the details on the canvas are created in post production to create the desired atmosphere.
 
