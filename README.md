@@ -7,3 +7,5 @@
 3. [Voice, tone and style](04-voice-tone-style)
 4. [Storytelling](05-storytelling)
 5. [Thesis](06-thesis)
+6. [Year in review](07-year-in-review)
+
