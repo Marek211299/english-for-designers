@@ -21,7 +21,7 @@ A third factor that can influence our relationship with mornings is our biologic
 
 Even though some people may enjoy mornings and use this part of the day as a time for productivity and serenity, for many of us, the early wake-up time is a challenging task. Understanding the reasons why we may dislike mornings more than other times of the day can help us find strategies to cope with this part of the day and make it more pleasant. For instance, we can try to improve our sleep quality and quantity by following a regular sleep schedule, avoiding caffeine and alcohol before bed, and creating a comfortable and dark sleeping environment. We can also reduce our morning stress by planning ahead, organizing our tasks, and setting realistic goals. Finally, we can adjust our biological rhythm by exposing ourselves to natural light in the morning, avoiding bright screens at night, and finding a balance between our personal preferences and social obligations.
 
-Finally, I looked at the various reasons why some people find it difficult to get up early in the morning and how they affect our wellbeing and productivity. It also suggested some possible solutions to make getting up in the morning more enjoyable and manageable. By following these tips, we may be able to overcome our aversion to mornings and start the day on a positive and energetic note.
+Finally, I looked at the various reasons why some people find it difficult to get up early in the morning and how they affect our well-being and productivity. It also suggested some possible solutions to make getting up in the morning more enjoyable and manageable. By following these tips, we may be able to overcome our aversion to mornings and start the day on a positive and energetic note.
 
 ## Process
 
