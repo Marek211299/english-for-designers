@@ -8,7 +8,10 @@ by Marek Knittl
 
 
 
-Some individuals wake up with a smile on their faces and full of energy, but for many of us, getting up in the early hours is a real challenge. This essay will explore the various factors that contribute to this aversion to mornings and how they affect our well-being and productivity.
+I don’t like mornings.
+
+Some individuals wake up with a smile on their faces and full of energy, but for many of us, getting up in the early hours is a real challenge.
+Let’s dive into the reasons why many of us aren’t exactly morning people, and how these factors impact our everyday lives, from our mood and health to how much we get done.
 
 One of the main reasons why some people dread early mornings is the lack of sufficient and quality sleep. Modern lifestyles and busy daily schedules often involve staying up late and waking up early, which deprive us of the optimal amount of rest we need. According to the, most adults require about seven to nine hours of sleep per night, but many people fall short of this recommendation. A lack of sleep can have detrimental effects on our mood and energy levels, making us feel groggy, irritable, and unmotivated in the morning. Therefore, it is understandable that many people do not look forward to the early hours of the day.
 
